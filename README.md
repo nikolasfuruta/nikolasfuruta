@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikolas Furuta</h1>
-<h3 align="center">A backend Jr. developer from São José dos Campos - SP, Brazil</h3>
+<h3 align="center">Jr. developer from São José dos Campos - SP, Brazil</h3>
 
 - 🌱 I’m currently learning **Frontend stacks, Typescript and Java**
 
